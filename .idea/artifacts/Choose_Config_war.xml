@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Choose-Config:war">
+    <output-path>$PROJECT_DIR$/Choose-Config/target</output-path>
+    <root id="archive" name="Choose-Config-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Choose-Config:war exploded" />
+    </root>
+  </artifact>
+</component>
